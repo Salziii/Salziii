@@ -9,7 +9,7 @@ public class AboutMe {
 
 	private string forename = "Nick";
 	private string surname = "Singerer";
-	private Country countryOfBirth = Country.Germany;	
+	private Country countryOfBirth = Country.Germany;
 		
 	public bool hasBirthday(int day, int month, int year) {
 		
@@ -23,6 +23,23 @@ public class AboutMe {
 		return false;
 			
 	}
+
+}
+```
+
+```
+package de.salzfrei
+
+public enum Projects {
+	
+	SpigotMinecraft-LobbyPlugin,
+	SpigotMinecraft-BedWarsPlugin,
+	SpigotMinecraft-SkylineCityPlugin,
+	SchoolDiscordBot,
+	PythonMySQLFunctions,
+	PythonClientServerSystem,
+	Website-QL,
+	ElectronApplication-Heptagon
 
 }
 ```
