@@ -27,7 +27,7 @@ public class AboutMe {
 }
 ```
 
-```
+```java
 package de.salzfrei
 
 public enum Projects {
