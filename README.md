@@ -10,6 +10,7 @@ public class AboutMe {
 	private string forename = "Nick";
 	private string surname = "Singerer";
 	private Country countryOfBirth = Country.Germany;
+	private String currentProject = "TutoringWebsite";
 		
 	public bool hasBirthday(int day, int month, int year) {
 		
