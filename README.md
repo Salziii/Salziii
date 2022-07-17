@@ -26,20 +26,3 @@ public class AboutMe {
 
 }
 ```
-
-```java
-package de.salzfrei
-
-public enum Projects {
-	
-	SpigotMinecraft-LobbyPlugin,
-	SpigotMinecraft-BedWarsPlugin,
-	SpigotMinecraft-SkylineCityPlugin,
-	SchoolDiscordBot,
-	PythonMySQLFunctions,
-	PythonClientServerSystem,
-	Website-QL,
-	ElectronApplication-Heptagon
-
-}
-```
