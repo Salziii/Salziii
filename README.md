@@ -1,4 +1,4 @@
-# Salziii *aka. Nick Singerer* :tw-1f307: 
+# Salziii *aka. Nick Singerer*
 
 ```java
 package de.salzfrei
@@ -9,10 +9,20 @@ package de.salzfrei
 
 		private string forename = "Nick";
 		private string surname = "Singerer";
-		private int age = 15;
-		private Country countryOfBirth = Country.Germany;
-
-		public 
+		private Country countryOfBirth = Country.Germany;	
+		
+		public bool hasBirthday(int day, int month, int year) {
+		
+			if ((4 == day) && (9 == month)) {
+			
+				System.out.println(forename + " is " (2006 - year) + " years old as of today!");
+				return true;
+				
+			}
+			
+			return false;
+			
+		}
 
 }
 ```
