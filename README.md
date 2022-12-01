@@ -5,7 +5,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.youtube.com/c/ananasjunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ananasjunge" height="30" width="40" /></a>
-<a href="https://discord.gg/#5347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5347" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/822872922586087444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5347" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Skills:</h2>
